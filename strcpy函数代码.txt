@@ -1,3 +1,6 @@
+/**
+远程edit
+**/
 char* StrCpy(char*str)
 {
 int len=0;
